@@ -30,7 +30,7 @@
 11. []()
 
 ## Others
-#### React & Rails
+### React & Rails
 1. [Build a Cryptocurrency Portfolio App with React and Ruby on Rails](https://www.youtube.com/watch?v=dpYPLUO3QcI&ab_channel=zayne)
 2. [How to use React with Ruby on Rails 6](https://learnetto.com/blog/react-rails)
 3. [Why and When should you use React with Ruby on Rails](https://dev.to/solutelabs/why-and-when-should-you-use-react-with-ruby-on-rails-2cfc)
@@ -41,3 +41,9 @@
 8. [How To Set Up a Ruby on Rails Project with a React Frontend](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-ruby-on-rails-project-with-a-react-frontend)
 9. [Building a CRUD interface with React and Ruby on Rails](https://www.pluralsight.com/guides/building-a-crud-interface-with-react-and-ruby-on-rails)
 10. [Build a To-Do App with React In Rails 6 (Tutorial)](https://hackernoon.com/build-a-to-do-app-with-react-in-rails-6-tutorial-pu2d3uta)
+### React Native & Rails
+11. [React-Native Social Media Clone using Ruby on Rails | Medium](https://medium.com/swlh/building-an-instagram-clone-in-react-native-and-tailwind-css-with-a-ruby-on-rails-api-only-backend-8be79d6b987d)
+12. [Creating a React Native App With a Ruby On Rails Backend (Part 1 of 3)](https://www.fullstacklabs.co/blog/creating-a-react-native-app-with-ruby-on-rails-backend-part-one)
+13. [Creating a React Native App With a Ruby On Rails Backend (Part 2 of 3)](https://www.fullstacklabs.co/blog/creating-a-react-native-app-with-ruby-on-rails-backend-part-two)
+14. [Creating a React Native App With a Ruby On Rails Backend (Part 3 of 3)](https://www.fullstacklabs.co/blog/creating-a-react-native-app-with-ruby-on-rails-backend-part-three)
+15. [Discussion about using Rails backend with React Native](https://www.reddit.com/r/rails/comments/ca8v9y/rails_backend_for_react_native/)
