@@ -41,9 +41,26 @@
 8. [How To Set Up a Ruby on Rails Project with a React Frontend](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-ruby-on-rails-project-with-a-react-frontend)
 9. [Building a CRUD interface with React and Ruby on Rails](https://www.pluralsight.com/guides/building-a-crud-interface-with-react-and-ruby-on-rails)
 10. [Build a To-Do App with React In Rails 6 (Tutorial)](https://hackernoon.com/build-a-to-do-app-with-react-in-rails-6-tutorial-pu2d3uta)
+
 ### React Native & Rails
 11. [React-Native Social Media Clone using Ruby on Rails | Medium](https://medium.com/swlh/building-an-instagram-clone-in-react-native-and-tailwind-css-with-a-ruby-on-rails-api-only-backend-8be79d6b987d)
 12. [Creating a React Native App With a Ruby On Rails Backend (Part 1 of 3)](https://www.fullstacklabs.co/blog/creating-a-react-native-app-with-ruby-on-rails-backend-part-one)
 13. [Creating a React Native App With a Ruby On Rails Backend (Part 2 of 3)](https://www.fullstacklabs.co/blog/creating-a-react-native-app-with-ruby-on-rails-backend-part-two)
 14. [Creating a React Native App With a Ruby On Rails Backend (Part 3 of 3)](https://www.fullstacklabs.co/blog/creating-a-react-native-app-with-ruby-on-rails-backend-part-three)
 15. [Discussion about using Rails backend with React Native](https://www.reddit.com/r/rails/comments/ca8v9y/rails_backend_for_react_native/)
+
+### Youtube
+1. [ruby in 4 hrs](https://www.youtube.com/watch?v=t_ispmWmdjY)
+2. [Ruby on Rails Crash Course 2hrs](https://www.youtube.com/watch?v=B3Fbujmgo60&t=167s)
+3. [Ruby programing in 40 min](https://www.youtube.com/watch?v=8wZ2ZD--VTk)
+4. [ROR in 60min](https://www.youtube.com/watch?v=pPy0GQJLZUM)
+5. [Ruby programming for beginners 20min](https://www.youtube.com/watch?v=lkkYoRXd6Dw)
+6. [Simple Rails API From scratch](https://www.youtube.com/watch?v=QojnRc7SS9o&t=26s)
+7. [React-Rails series](https://www.react-rails.com/)
+
+### Books / pdf
+1. [Learning Ruby on Rails by riptutorial](https://riptutorial.com/ebook/ruby-on-rails)https://riptutorial.com/ebook/ruby-on-rails)
+2. [Ruby on Rails Notes by goalkicker](https://goalkicker.com/RubyOnRailsBook/)
+3. [Ruby Notes by goalkicker](https://goalkicker.com/RubyBook/)
+4. [React Notes by goalkicker](https://goalkicker.com/ReactNativeBook/)
+5. [React Native notes by goalkicker](https://goalkicker.com/ReactNativeBook/)
