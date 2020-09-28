@@ -64,3 +64,4 @@
 3. [Ruby Notes by goalkicker](https://goalkicker.com/RubyBook/)
 4. [React Notes by goalkicker](https://goalkicker.com/ReactNativeBook/)
 5. [React Native notes by goalkicker](https://goalkicker.com/ReactNativeBook/)
+6. [Books from leanpub](https://leanpub.com/bookstore/book?search=rails)
